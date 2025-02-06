@@ -20,10 +20,10 @@ Nous avons utilisé **U-Net** comme architecture principale, en comparant **PyTo
 
 ## 🖼️ Résultats Visuels
 ### 🔬 Segmentation Médicale  
-<img src="./img/7.gif" width="600px">
+<img src="./img/7.gif" width="400px">
 
 ### 🏗️ Architecture du Modèle U-Net  
-<img src="./u-net-architecture.png" width="400px">
+<img src="./u-net-architecture.png" width="600px">
 
 ### 📉 Courbes de Performance  
 
