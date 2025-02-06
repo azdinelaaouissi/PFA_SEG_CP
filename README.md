@@ -104,7 +104,7 @@ Nous avons développé une interface interactive avec **Streamlit** qui permet d
 
 ### 🔽 1. Cloner le projet  
 ```bash
-git clone https://github.com/votre-repo/segmentation-medicale.git
+git clone https://github.com/azdinelaaouissi/PFA_SEG_CP.git
 cd segmentation-medicale
 ```
 
