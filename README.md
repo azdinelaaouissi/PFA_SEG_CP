@@ -32,9 +32,9 @@ Nous avons utilisé **U-Net** comme architecture principale, en comparant **PyTo
 ### 📉 Courbes de Performance
 <div style="display: flex; justify-content: center; flex-direction: column; gap: 2px;">
   <div style="display: flex; justify-content: center; gap: 2px;">
-    <img src="./calibration_curve.png" width="275px">
-    <img src="./precision_recall_curve.png" width="275px">
-    <img src="./roc_curve.png" width="275px">
+    <img src="./calibration_curve.png" width="270px">
+    <img src="./precision_recall_curve.png" width="270px">
+    <img src="./roc_curve.png" width="270px">
   </div>
 </div>
 
