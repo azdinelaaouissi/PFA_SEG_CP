@@ -56,6 +56,10 @@ Deux implémentations ont été développées :
 Les modèles ont été **entraînés avec data augmentation** et des **techniques d’optimisation adaptées**.
 
 ---
+
+
+
+## 🎯 Performances des Modèles  
 ### 📉 Courbes de Performance
 <div style="display: flex; justify-content: center; flex-direction: column; gap: 2px;">
   <div style="display: flex; justify-content: center; gap: 2px;">
@@ -64,9 +68,6 @@ Les modèles ont été **entraînés avec data augmentation** et des **technique
     <img src="./roc_curve.png" width="270px">
   </div>
 </div>
-
-
-## 🎯 Performances des Modèles  
 
 | 📊 **Métrique** | **Valeur** |
 |--------------|--------|
