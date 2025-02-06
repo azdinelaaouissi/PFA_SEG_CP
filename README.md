@@ -23,10 +23,10 @@ Nous avons utilisé **U-Net** comme architecture principale, en comparant **PyTo
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center; text-align: center;">
   <div>
-    <img src="./img/7.gif" width="400px">
+    <img src="./img/7.gif" width="200px">
   </div>
   <div>
-    <img src="./u-net-architecture.png" width="400px">
+    <img src="./u-net-architecture.png" width="200px">
   </div>
 </div>
 
