@@ -20,21 +20,21 @@ Nous avons utilisé **U-Net** comme architecture principale, en comparant **PyTo
 
 ## 🖼️ Résultats Visuels
 ### 🔬 Segmentation Médicale  
-<img src="./img/7.gif" width="400px">
+<img src="./img/7.gif" width="600px">
 
 ### 🏗️ Architecture du Modèle U-Net  
-<img src="./u-net-architecture.png" style="width: 100%; height: auto;">
+<img src="./u-net-architecture.png" width="600px">
 
 ### 📉 Courbes de Performance  
 
 **Courbe de Calibration**  
-<img src="./calibration_curve.png" style="width: 100%; height: auto;">
+<img src="./calibration_curve.png" width="600px">
 
 **Courbe Precision-Recall**  
-<img src="./precision_recall_curve.png" style="width: 100%; height: auto;">
+<img src="./precision_recall_curve.png" width="600px">
 
 **Courbe ROC**  
-<img src="./roc_curve.png" style="width: 100%; height: auto;">
+<img src="./roc_curve.png" width="600px">
 
 ---
 
@@ -61,39 +61,14 @@ Les modèles ont été **entraînés avec data augmentation** et des **technique
 
 ## 🎯 Performances des Modèles  
 
-
-<div style="width: 100%; overflow-x: auto;">
-  <table>
-    <tr>
-      <th>📊 **Métrique**</th>
-      <th>**Valeur**</th>
-    </tr>
-    <tr>
-      <td>IoU (Intersection over Union)</td>
-      <td>0.8190</td>
-    </tr>
-    <tr>
-      <td>Précision</td>
-      <td>0.9673</td>
-    </tr>
-    <tr>
-      <td>Recall</td>
-      <td>0.8424</td>
-    </tr>
-    <tr>
-      <td>F1 Score</td>
-      <td>0.9005</td>
-    </tr>
-    <tr>
-      <td>Accuracy</td>
-      <td>0.99995</td>
-    </tr>
-    <tr>
-      <td>Dice Score</td>
-      <td>0.8575</td>
-    </tr>
-  </table>
-</div>
+| 📊 **Métrique** | **Valeur** |
+|--------------|--------|
+| IoU (Intersection over Union) | 0.8190 |
+| Précision | 0.9673 |
+| Recall | 0.8424 |
+| F1 Score | 0.9005 |
+| Accuracy | 0.99995 |
+| Dice Score | 0.8575 |
 
 ---
 
