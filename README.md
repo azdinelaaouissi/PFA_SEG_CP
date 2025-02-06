@@ -20,21 +20,31 @@ Nous avons utilisé **U-Net** comme architecture principale, en comparant **PyTo
 
 ## 🖼️ Résultats Visuels
 ### 🔬 Segmentation Médicale  
-<img src="./img/7.gif" width="400px">
+<div style="text-align: center;">
+  <img src="./img/7.gif" width="400px">
+</div>
 
 ### 🏗️ Architecture du Modèle U-Net  
-<img src="./u-net-architecture.png" width="600px">
+<div style="text-align: center;">
+  <img src="./u-net-architecture.png" width="600px">
+</div>
 
 ### 📉 Courbes de Performance  
 
 **Courbe de Calibration**  
-<img src="./calibration_curve.png" width="600px">
+<div style="text-align: center;">
+  <img src="./calibration_curve.png" width="600px">
+</div>
 
 **Courbe Precision-Recall**  
-<img src="./precision_recall_curve.png" width="600px">
+<div style="text-align: center;">
+  <img src="./precision_recall_curve.png" width="600px">
+</div>
 
 **Courbe ROC**  
-<img src="./roc_curve.png" width="600px">
+<div style="text-align: center;">
+  <img src="./roc_curve.png" width="600px">
+</div>
 
 ---
 
