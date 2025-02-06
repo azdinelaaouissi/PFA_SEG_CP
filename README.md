@@ -26,24 +26,16 @@ Nous avons utilisé **U-Net** comme architecture principale, en comparant **PyTo
 
 ### 🏗️ Architecture du Modèle U-Net
 <div style="text-align: center;">
-  <img src="./u-net-architecture.png" width="600px">
+  <img src="./u-net-architecture.png" width="400px">
 </div>
 
 ### 📉 Courbes de Performance
-
-**Courbe de Calibration**
-<div style="text-align: center;">
-  <img src="./calibration_curve.png" width="600px">
-</div>
-
-**Courbe Precision-Recall**
-<div style="text-align: center;">
-  <img src="./precision_recall_curve.png" width="600px">
-</div>
-
-**Courbe ROC**
-<div style="text-align: center;">
-  <img src="./roc_curve.png" width="600px">
+<div style="display: flex; justify-content: center; flex-direction: column; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="./calibration_curve.png" width="300px">
+    <img src="./precision_recall_curve.png" width="300px">
+    <img src="./roc_curve.png" width="300px">
+  </div>
 </div>
 
 ---
