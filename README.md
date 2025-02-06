@@ -22,7 +22,7 @@ Nous avons utilisé **U-Net** comme architecture principale, en comparant **PyTo
 ### 🔬 Segmentation Médicale
 <div style="display: flex; justify-content: center; flex-direction: column; gap: 80px;">
 
-<div style="display: flex; justify-content: center; gap: 80px;">
+<div style="display: flex; justify-content: center; gap: 100px;">
   <img src="./img/7.gif" width="350px">
   <img src="./img/10.gif" width="350px">
 </div>
