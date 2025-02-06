@@ -23,7 +23,7 @@ Nous avons utilisé **U-Net** comme architecture principale, en comparant **PyTo
 <img src="./img/7.gif" width="600px">
 
 ### 🏗️ Architecture du Modèle U-Net  
-<img src="./u-net-architecture.png" width="600px">
+<img src="./u-net-architecture.png" width="400px">
 
 ### 📉 Courbes de Performance  
 
