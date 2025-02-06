@@ -29,11 +29,9 @@ Nous avons utilisé **U-Net** comme architecture principale, en comparant **PyTo
 </div>
 
 ### 🏗️ Architecture du Modèle U-Net
-
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <img src="./u-net-architecture.png" style="display: block; margin: auto; width: 500px;">
-</div>
-
+<p align="center" width="100%">
+  <img src="./u-net-architecture.png" width="500px">
+</p>
 
 ### 📉 Courbes de Performance
 <div style="display: flex; justify-content: center; flex-direction: column; gap: 2px;">
